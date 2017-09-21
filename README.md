@@ -7,7 +7,7 @@ These instructions assume that you have a linux server on which to build, and th
 
  * In a browser, navigate to https://github.com/containernetworking/plugins/
  * Log into github if you aren't already logged in.
- * Select <Fork> button
+ * Select \<Fork\> button
 
 ## Git Clone Your Fork of containernetworking/plugins:
 
