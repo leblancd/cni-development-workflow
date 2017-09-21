@@ -5,9 +5,9 @@ These instructions assume that you have a linux server on which to build, and th
 
 ## Create Your Own Fork of containernetworking/plugins:
 
-	* Go to the [CNI Plugins Repo](https://github.com/containernetworking/plugins/)
-	* Log into github if you aren't already logged in.
-	* Select <Fork> button
+ * In a browser, navigate to https://github.com/containernetworking/plugins/
+ * Log into github if you aren't already logged in.
+ * Select <Fork> button
 
 ## Git Clone Your Fork of containernetworking/plugins:
 
