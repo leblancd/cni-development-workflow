@@ -1,5 +1,5 @@
 # cni-development-workflow
-An overview of development workflow for Container Networking Interface (CNI) Plugins.
+This is an overview of development workflow for Container Networking Interface (CNI) Plugins.
 
 These instructions assume that you have a linux server on which to build, and that server has Go language installed, and the $GOPATH is configured appropriately.
 
